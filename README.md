@@ -36,16 +36,18 @@ Install the latest version of Java and Maven.
     * Run As > Java Application
     * If asked, type "StorageSample" and click OK
 
-## Contributing
+## Support
 --------------
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This code written as part of my development work , if you found it useful spread the code
 
-Please make sure to update tests as appropriate.
-
-## License
+## Contribute
 --------------
-[MIT](https://choosealicense.com/licenses/mit/)
+Contribute by creating new issues, sending pull requests on Github
 
 ## Author
 --------------
 Amit Samadder
+
+## License
+--------------
+[MIT](https://choosealicense.com/licenses/mit/)
