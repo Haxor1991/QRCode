@@ -23,18 +23,16 @@ Install the latest version of Java and Maven.
 * Create a new project using `QRCode`
 
     * Create a new Java Project.
-    * Choose the **Location** of the project to be the location of `cmdline-sample`
+    * Choose the **Location** of the project to be the location of `QRCode`
     * Select the project and **Convert to Maven Project** to add Maven Dependencies.
     * Click on Run > Run configurations
-        * Navigate to your **Java Application**'s configuration section
-        * In the **Arguments** tab, add the name of the bucket you created above as a **Program argument**
-        * In the **Environment** tab, create a variable `GOOGLE_APPLICATION_CREDENTIALS` and set it to the path to your json private key file.
-
+       
 * Run
 
     * Right-click on project
-    * Run As > Java Application
-    * If asked, type "StorageSample" and click OK
+    * Run As > Maven build
+    * If asked, type "clean install" and click OK
+
 
 ## Support
 --------------
