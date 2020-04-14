@@ -1,12 +1,12 @@
-# QRCode
+## QRCode
 --------------
 QRCode is a program that generates a business Card 
 
-##Prerequisites
+## Prerequisites
 --------------
 Install the latest version of Java and Maven.
 
-##Eclipse Instructions
+## Eclipse Instructions
 --------------------
 
 * **Prerequisites:**
@@ -46,5 +46,6 @@ Please make sure to update tests as appropriate.
 --------------
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Author
+##Author
+--------------
 Amit Samadder
